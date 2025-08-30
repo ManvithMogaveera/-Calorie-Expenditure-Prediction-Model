@@ -48,3 +48,23 @@ Achieved **99.6% accuracy** using **LGBMRegressor** with hyperparameter tuning a
 - Scikit-learn
 - Matplotlib & Seaborn
 
+📈 Results
+Metric	Score
+R² (Train)  	0.9964
+R² (Test)	    0.9962
+Cross-Val Score	0.9963
+💡 Future Improvements
+
+        Deploy as a web app (Streamlit/FastAPI)
+
+        Add deep learning model for comparison
+
+        Build fitness recommendation system
+
+🤝 Contributing
+
+Pull requests are welcome. Please fork this repo and submit PRs for suggestions.
+
+📧 Contact
+-Manvith
+
