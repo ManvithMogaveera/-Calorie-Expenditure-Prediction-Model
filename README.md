@@ -1,2 +1,1 @@
-# -Calorie-Expenditure-Prediction-Model
-Machine Learning regression model** that accurately predicts calorie expenditure based on fitness and health parameters.   Achieved **99.6% accuracy** using **LGBMRegressor** with hyperparameter tuning and cross-validation.
+Calorie Expenditure Prediction Model using LGBMRegressor with 99.6% accuracy. Includes hyperparameter tuning, cross-validation, and model evaluation metrics (MAE, RMSE, R²). Built for health & fitness data insights.
